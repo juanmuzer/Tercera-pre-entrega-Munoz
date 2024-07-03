@@ -1,8 +1,8 @@
 # Tercera-pre-entrega
-## Juan Muñoz
+### Juan Muñoz
 
-#Nombre del proyecyo
-## Mundo Geek Juegos
+## Nombre del proyecyo
+### Mundo Geek Juegos
 
 
 # Descripción del Proyecto

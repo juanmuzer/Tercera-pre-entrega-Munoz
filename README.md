@@ -34,7 +34,7 @@ Caso de uso 3: Agregar una Miniatura
 - El sistema despliega la pagina principal de Miniaturas y apareceran todas las miniaturas incluida la agregada recien
   sin la imagen,  ya que la imagen hay que cargarla manualmente dentro de la carpeta asset/img/"de nombre el codigo del        producto".jpg
 
-  Caso de uso 4: Agregar un Libro
+Caso de uso 4: Agregar un Libro
 - El usuario ingresa a la pagina de Libros
 - El usuario hace click en boton Agregar libro
 - El usuario ingresa todos los datos del libro

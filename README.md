@@ -44,7 +44,7 @@ Caso de uso 4: Agregar un Libro
 (En este caso al no tener inicio de sesion aun estan siempre visibles)
 
 
-Para iniciar el proyecto en un terminal, nos ubicamos en la carpeta donde se encuentre el manage.py y corremos el comando python manage.py runserver
+Para iniciar el proyecto en un terminal, nos ubicamos en la carpeta donde se encuentre el manage.py y corremos el comando "python manage.py runserver"
 
 El proyecto se realizo con:
   - Python
